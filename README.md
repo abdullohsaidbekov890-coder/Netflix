@@ -1,0 +1,1 @@
+"This project contains a Netflix Dashboard created in Power BI. The dataset includes information about movies and TV shows, such as title, genre, release year, country, duration, and ratings. The dashboard provides interactive insights into genre distribution, content trends, and popularity, helping users explore Netflix’s content library."
